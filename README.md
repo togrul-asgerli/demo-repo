@@ -1,3 +1,3 @@
-#DEMO
+# Demo
 
-Some demo reprository
+Some demo reprository!
